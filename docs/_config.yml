@@ -28,8 +28,8 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  mmantalos
 
 # Build settings
-theme: benbalter/retlab
-#remote_theme: pages-themes/midnight@v0.2.0
+#theme: minima
+remote_theme: benbalter/retlab
 plugins:
   - jekyll-remote-theme
   - jekyll-feed
